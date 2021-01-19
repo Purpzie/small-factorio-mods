@@ -1,11 +1,11 @@
 {
   "name": "darker-lamp",
-  "version": "1.0.0",
-  "factorio_version": "1.0",
+  "version": "1.1.0",
+  "factorio_version": "1.1",
   "title": "Darker Lamps",
   "description": "Makes unlit lamps darker",
   "author": "Purpzie",
   "contact": "Purpzie#0001 on Discord",
-  "homepage": "https://github.com/Purpzie/small-factorio-mods",
-  "dependencies": ["base >= 1.0.0"]
+  "homepage": "https://github.com/Purpzie/small-factorio-mods/tree/main/darker-lamps",
+  "dependencies": ["base >= 1.1.0"]
 }
