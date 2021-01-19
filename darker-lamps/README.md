@@ -1,4 +1,4 @@
-![](./thumbnail.png)
+![](./src/thumbnail.png)
 
 # Darker Lamps
 Makes unlit lamps darker.
