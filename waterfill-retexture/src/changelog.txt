@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020-01-18
+  Changes:
+    - Added support for Noxys Waterfill
+    - Textures optimised (they aren't really that big in the first place, but whatever)
+  Info:
+    - Source is now at Purpzie/small-factorio-mods instead of Purpzie/waterfill-retexture
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-01-17
+  Changes:
+    - Enforced incompatibility with different waterfill mods (might add support for Noxys Waterfill eventually)
+    - Edited description & set homepage
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-01-16
+  Info:
+    - Updated to Factorio 1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-01-16
+  Info:
+    - Initial release
