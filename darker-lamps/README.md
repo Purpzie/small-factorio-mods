@@ -1,4 +1,6 @@
 ![](./src/thumbnail.png)
 
-# Darker Lamps
-Makes unlit lamps darker.
+# Darker Unlit Lamps
+This makes it easier to read things like 7 segment displays.
+
+![](./example.png)
