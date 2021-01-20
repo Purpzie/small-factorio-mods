@@ -6,6 +6,6 @@
   "description": "This makes it easier to read things like 7 segment displays.",
   "author": "Purpzie",
   "contact": "Purpzie#0001 on Discord",
-  "homepage": "https://github.com/Purpzie/small-factorio-mods/tree/main/darker-lamps",
+  "homepage": "https://github.com/Purpzie/small-factorio-mods/tree/main/darker-lamp",
   "dependencies": ["base >= 1.1.0"]
 }
