@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020-01-21
+  Changes:
+    - Now works with any mod that adds water-placing items
+    - Will also attempt to change the icon for any technology named "waterfill"
+    - Won't work with items that place non-vanilla water. Let me know on the mod page, I may add it
+---------------------------------------------------------------------------------------------------
 Version: 1.1.2
 Date: 2020-01-18
   Changes:

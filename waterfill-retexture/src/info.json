@@ -1,16 +1,11 @@
 {
   "name": "waterfill-retexture",
-  "version": "1.1.2",
-  "factorio_version": "1.1",
+  "version": "1.1.3",
   "title": "Waterfill Retexture",
-  "description": "Retextures waterfill to feel more vanilla.",
+  "description": "Retextures waterfill to feel more vanilla.\n\nThis works with any mod that adds water-placing items. Any technology named \"waterfill\" will also have its icon changed.",
   "author": "Purpzie",
   "contact": "Purpzie#0001 on Discord",
   "homepage": "https://github.com/Purpzie/small-factorio-mods/tree/main/waterfill-retexture",
-  "dependencies": [
-    "base >= 1.1.0",
-    "? Waterfill_v17 >= 1.1.0",
-    "? Noxys_Waterfill >= 0.4.0",
-    "! RitnWaterfill"
-  ]
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"]
 }
