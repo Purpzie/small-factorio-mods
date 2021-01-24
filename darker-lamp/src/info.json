@@ -1,11 +1,12 @@
 {
   "name": "darker-lamp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "factorio_version": "1.1",
   "title": "Darker Unlit Lamps",
   "description": "This makes it easier to read things like 7 segment displays.",
   "author": "Purpzie",
   "contact": "Purpzie#0001 on Discord",
   "homepage": "https://github.com/Purpzie/small-factorio-mods/tree/main/darker-lamp",
-  "dependencies": ["base >= 1.1.0"]
+  "dependencies": ["base >= 1.1.0"],
+  "package": { "git_publish_branch": "main" }
 }

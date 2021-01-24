@@ -1,15 +1,21 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: ????
+  Changes:
+    - Fixed changelog dates (this mod probably won't update after this, so I had to fix it somehow)
+    - Add license to source (woops)
+---------------------------------------------------------------------------------------------------
 Version: 1.1.1
-Date: 2020-01-20
+Date: 2021-01-20
   Changes:
     - Changed mod name & description for clarity
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 2020-01-18
+Date: 2021-01-18
   Info:
     - Updated to Factorio 1.1
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 2020-01-18
+Date: 2021-01-18
   Info:
     - Initial release
